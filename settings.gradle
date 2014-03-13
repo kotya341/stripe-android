@@ -1,1 +1,4 @@
+include ':stripe-android'
+// Stripe SDK
+include ':stripe'
 
